@@ -1,0 +1,5 @@
+class Rbs
+  def initialize: (String val) -> void
+
+  attr_reader val: String
+end
